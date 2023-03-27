@@ -1,7 +1,21 @@
 # SignUp-Login-Logout-API-Project
 
-This project provides a user authentication API using Django Rest Framework.
+This project is a Django Rest Framework API system that allows users to sign up, log in, and log out. The API uses token-based authentication and includes endpoints for signup, login, and logout.
 
+Features:
+
+User signup with username, email, and password
+User login with username and password
+User logout with token-based authentication
+Token-based authentication for secure API access
+Technologies used:
+
+Django Rest Framework
+Python
+SQLite
+License: MIT
+
+This project is useful for developers who need to build a user authentication system for their Django Rest Framework API. It provides a solid foundation for building secure, token-based authentication for user accounts.
 Installation
 
 1. Clone the repository: git clone https://github.com/<username>/<project-name>.git
